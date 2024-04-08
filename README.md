@@ -1,5 +1,7 @@
 # MachineLearning
 
+my personal learning notes, where I use it to study and implement basic concepts and implementations of Machine Learning. Here you can find some of my experiments and thoughts on learning.
+
 ## dnnWithOutLibs
 
 This repository contains a simple implementation of a deep neural network (DNN) without the use of external libraries. The DNN is implemented in Python.
